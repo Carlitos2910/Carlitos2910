@@ -1,4 +1,11 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img width="80%" height="180px" alt="Hello, I'm Carlos" src="./assets/banner.gif" />
+  <h1 align="center"> Hi 👋, I'm Carlos </h1>
+  <h3 align="center">
+    I'm a junior web developer from Spain. 
+  </h3>
+"
+</div>
 
 <!--
 **Carlitos2910/Carlitos2910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
